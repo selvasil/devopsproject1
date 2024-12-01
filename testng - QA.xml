@@ -8,6 +8,8 @@
 	    <class name="com.leaftaps.testcases.Login"/>
 	<class name="com.leaftaps.testcases.LoginFirefox"/>-->
 	    <class name="com.leaftaps.testcases.TC001_JustLogin"/>
+	    <class name="com.leaftaps.testcases.TC002_JustLogin"/>
+	    <class name="com.leaftaps.testcases.TC003_JustLogin"/>
     </classes>
   </test> 
 </suite>
